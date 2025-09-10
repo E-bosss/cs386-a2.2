@@ -1,2 +1,2 @@
 # Ethan Senger #
-I am a current 3rd year student studying Computer Science. Some of my hobbies include playing golf and wathching baseball. This is my first semester at NAU and I am very excited to learn. 
+I am a current 3rd year student at NAU. Some of my hobbies include golfing and watching the padres play baseball. I am excited this year to improve my coding knowledge
